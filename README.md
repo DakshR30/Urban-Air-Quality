@@ -3,6 +3,8 @@
 
 A production-grade, standalone **Streamlit** application engineered for atmospheric data warehousing, multidimensional OLAP analytics, and machine learning air quality classification utilizing **authentic public Central Pollution Control Board (CPCB, India) environmental sensor records (>20,000 observations)**.
 
+📄 **Academic Project Report:** Detailed documentation and benchmarking results available in [Urban_Air_Quality_Project_Report.pdf](./Urban_Air_Quality_Project_Report.pdf).
+
 ---
 
 ## 🏛️ System Architecture
